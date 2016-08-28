@@ -1,0 +1,6 @@
+use_frameworks!
+target 'dispatcher_Tests' do
+  pod 'dispatcher', :path => '../'
+  
+  
+end
