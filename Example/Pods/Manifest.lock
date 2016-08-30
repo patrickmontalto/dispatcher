@@ -1,0 +1,16 @@
+PODS:
+  - dispatcher (0.1.0)
+
+DEPENDENCIES:
+  - dispatcher (from `../`)
+
+EXTERNAL SOURCES:
+  dispatcher:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  dispatcher: 96de4afaf374a00d3061d5d9b07797a6a03f4f5d
+
+PODFILE CHECKSUM: 44c78e80695da7476a9e9c2f441fad0179143837
+
+COCOAPODS: 1.0.1
